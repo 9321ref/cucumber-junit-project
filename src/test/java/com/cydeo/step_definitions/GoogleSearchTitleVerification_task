@@ -1,0 +1,8 @@
+Task 1: Google Search Title Verification
+1. Go to https://www.google.com
+2. Search for “apple”
+3. Verify title is:
+a. Expected = “apple – Google Search”
+Note:
+1. Follow POM Design Pattern
+2. BDD implementation

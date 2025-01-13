@@ -1,0 +1,8 @@
+Task 2: Bing Search Title Verification
+1. Go to https://www.google.com
+2. Search for “orange”
+3. Verify title is:
+a. Expected = “orange – Search”
+Note:
+1. Follow POM Design Pattern
+2. BDD implementation
