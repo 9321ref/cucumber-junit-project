@@ -6,9 +6,10 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
 public class Library_StepDefinitions {
-
+/*
     //TODO: Fix this class after (TODO)"buraya hatirlatici koyabilirsin daha sonra sana hatrlatiyor code run ypamayinca 'implement me' der"
 
+ */
     @Given("user is on the login page of the library application")
     public void user_is_on_the_login_page_of_the_library_application() {
         System.out.println("User is on the login page of the library application.");
